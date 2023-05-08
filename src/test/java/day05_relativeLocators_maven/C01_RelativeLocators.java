@@ -14,7 +14,6 @@ public class C01_RelativeLocators {
 
         //1 ) https://www.diemol.com/selenium-4-demo/relative-locators-demo.html adresine gidin
         driver.get("https://www.diemol.com/selenium-4-demo/relative-locators-demo.html");
-
         //2 ) Berlin’i 3 farkli relative locator ile locate edin
         //aslinda biz Berlin elementini id='pid7_thumb' seklinde locate edebiliriz relative locator,
         //locate edilemeyen webelementler icin tasarlanmistir biz ornek olmasi icin Berlin elementi uzerinde deniyoruz
